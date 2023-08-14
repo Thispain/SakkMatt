@@ -1,0 +1,31 @@
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe.config
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.pdb
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.AssemblyReference.cache
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.CoreCompileInputs.cache
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.exe
+D:\Szabó Roland\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.pdb
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe.config
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.pdb
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.AssemblyReference.cache
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.SuggestedBindingRedirects.cache
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.CoreCompileInputs.cache
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.exe
+F:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.pdb
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe.config
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.pdb
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.AssemblyReference.cache
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.SuggestedBindingRedirects.cache
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.CoreCompileInputs.cache
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.exe
+Z:\Imadat\ISKOLA\Iskolai_feladatok\2020-2021\Házi\_Programozás\SakkMatt\Szabó.Roland_SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.pdb
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe.config
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.exe
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\bin\Debug\Szabó.Roland_SakkMatt.pdb
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.AssemblyReference.cache
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.SuggestedBindingRedirects.cache
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.csproj.CoreCompileInputs.cache
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.exe
+Z:\Imadat\Projekt\SakkMatt\Szabó.Roland_SakkMatt\obj\Debug\Szabó.Roland_SakkMatt.pdb
